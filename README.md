@@ -31,6 +31,9 @@ Current Technologies:
   - CSS
   - JavaScript
   - PHP
+  - JAVA
+  - SPING
+  - DJANGO
   - Python
   - C++
 <!--
