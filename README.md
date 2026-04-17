@@ -40,7 +40,7 @@ Current Technologies:
 <!--
 ```
 ## Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,dart,mongodb,firebase,supabase,tailwind,spring,flutter,react,next,flask,django,linux,windows,git,github,docker,jenkins,vscode,eclipse" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,dart,mongodb,mysql,firebase,supabase,tailwind,spring,flutter,react,next,flask,django,linux,windows,git,github,docker,jenkins,vscode,eclipse" /> </p>
 ---
 
 ## Tools I Use
