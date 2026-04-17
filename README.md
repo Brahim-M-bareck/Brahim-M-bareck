@@ -10,11 +10,10 @@
 ## About Me
 
 ```yaml
-Name: Brahim M'bareck
+Name: Brahim M'Bareck
 Location: Mauritania
 Education:
-  - ISME
-  - SUP'NUM
+  - SUPNUM
 
 Interests:
   - Web Development
@@ -25,6 +24,7 @@ Interests:
 Current Technologies:
   - MongoDB
   - Flutter
+  - Dart
   - Supabase
   - Firebase
   - HTML
@@ -33,13 +33,14 @@ Current Technologies:
   - PHP
   - JAVA
   - SPING
+  - 
   - DJANGO
   - Python
   - C++
 <!--
 ```
 ## Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,mongodb,firebase,flutter,linux,windows,git,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cpp,java,,mongodb,firebase,flutter,react,flask,django,linux,windows,git,github,docker,jenkins,,vscode,postman,docker" /> </p>
 
 ---
 
