@@ -42,7 +42,7 @@
 - Je cherche un **stage, un emploi junior ou des missions freelance** en développement web et mobile.
 
 <details>
-<summary><strong>🇬🇧 Read in English</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/English-6366F1?style=flat-square&labelColor=0F172A" alt="English" /> Read in English</strong></summary>
 
 - Information Systems Development student at **SupNum**, Mauritania.
 - I build web applications with **Next.js, React, Angular and Tailwind CSS**, and APIs with **Spring Boot, Django/Flask or PHP**.
@@ -143,7 +143,7 @@
 <!-- À COMPLÉTER : ajouter les URLs de démo des projets lorsqu'elles sont disponibles -->
 
 <details>
-<summary><strong>🇬🇧 Project descriptions in English</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/English-6366F1?style=flat-square&labelColor=0F172A" alt="English" /> Project descriptions in English</strong></summary>
 
 - **Personal portfolio (in progress)** — Multilingual one-page portfolio (FR/EN/AR) with light/dark theme and responsive navigation.
 - **Web Al-Fitiya** — Website for the AL-FITIYA group, built with Angular, TypeScript and SCSS.
@@ -183,7 +183,7 @@
 
 - ** Sites & applications web** — Sites vitrines, landing pages, tableaux de bord et applications web sur mesure. `Next.js` · `React` · `Angular` · `Tailwind CSS`
 - ** Applications mobiles** — Applications Android/iOS avec Flutter, de l'interface à l'intégration des données. `Flutter` · `Dart` · `Firebase` · `Supabase`
-- **🔌 API & bases de données** — Conception d'API, modélisation et intégration de bases de données. `Spring Boot` · `Django` · `Flask` · `MongoDB` · `MySQL`
+- **API & bases de données** — Conception d'API, modélisation et intégration de bases de données. `Spring Boot` · `Django` · `Flask` · `MongoDB` · `MySQL`
 - ** Maintenance & amélioration** — Correction de bugs, optimisation des performances et reprise de projets existants. `Git` · `Docker` · `Linux`
 
 <p align="center">
@@ -192,7 +192,7 @@
 </p>
 
 <details>
-<summary><strong>🇬🇧 Freelance services (EN)</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/English-6366F1?style=flat-square&labelColor=0F172A" alt="English" /> Freelance services (EN)</strong></summary>
 
 - **Websites & web apps** — Landing pages, business websites, dashboards and custom web applications. `Next.js` · `React` · `Angular` · `Tailwind CSS`
 - **Mobile apps** — Android/iOS apps with Flutter, from UI to data integration. `Flutter` · `Dart` · `Firebase` · `Supabase`
