@@ -221,7 +221,7 @@
  <a href="https://www.linkedin.com/in/brahim-m-bareck-71b101377">
  <img src="https://img.shields.io/badge/LinkedIn-Brahim%20M%27Bareck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn : Brahim M'Bareck" />
  </a>
- <a href="https://portfolio-zeta-seven-1nlmcj80a8.vercel.app/fr#contact">
+ <a href="https://portfolio-zeta-seven-1nlmcj80a8.vercel.app/fr#top">
  <img src="https://img.shields.io/badge/Portfolio-Visiter-6366F1?style=for-the-badge&labelColor=0F172A" alt="Portfolio : Brahim M'Bareck" />
  </a>
  <a href="https://wa.me/22231662683">
