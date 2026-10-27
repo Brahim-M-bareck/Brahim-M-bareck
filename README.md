@@ -23,13 +23,15 @@
 <a href="https://www.linkedin.com/in/brahim-m-bareck-71b101377">
  <img src="https://img.shields.io/badge/LinkedIn-Brahim%20M%27Bareck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn : Brahim M'Bareck" />
 </a>
-<img src="https://img.shields.io/badge/Portfolio-%C3%80%20COMPL%C3%89TER-334155?style=for-the-badge&labelColor=0F172A" alt="Portfolio — lien à compléter" />
+<a href="https://portfolio-zeta-seven-1nlmcj80a8.vercel.app/fr#contact">
+ <img src="https://img.shields.io/badge/Portfolio-Visiter-6366F1?style=for-the-badge&labelColor=0F172A" alt="Portfolio : Brahim M'Bareck" />
+</a>
 <a href="https://wa.me/22231662683">
  <img src="https://img.shields.io/badge/WhatsApp-%2B222%2031662683-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0F172A" alt="WhatsApp : +222 31662683" />
 </a>
 
 <p>
- <sub>LinkedIn et WhatsApp ajoutés · Portfolio : lien à compléter <!-- À COMPLÉTER --></sub>
+ <sub>LinkedIn, WhatsApp et Portfolio ajoutés</sub>
 </p>
 
 </div>
@@ -219,13 +221,13 @@
  <a href="https://www.linkedin.com/in/brahim-m-bareck-71b101377">
  <img src="https://img.shields.io/badge/LinkedIn-Brahim%20M%27Bareck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn : Brahim M'Bareck" />
  </a>
- <img src="https://img.shields.io/badge/Portfolio-%C3%80%20COMPL%C3%89TER-334155?style=for-the-badge&labelColor=0F172A" alt="Portfolio — lien à compléter" />
+ <a href="https://portfolio-zeta-seven-1nlmcj80a8.vercel.app/fr#contact">
+ <img src="https://img.shields.io/badge/Portfolio-Visiter-6366F1?style=for-the-badge&labelColor=0F172A" alt="Portfolio : Brahim M'Bareck" />
+ </a>
  <a href="https://wa.me/22231662683">
  <img src="https://img.shields.io/badge/WhatsApp-%2B222%2031662683-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0F172A" alt="WhatsApp : +222 31662683" />
  </a>
 </p>
-
-<!-- À COMPLÉTER : Portfolio -->
 
 <p align="center">
  Vous avez un stage, un poste junior ou un projet freelance à me confier ?<br />
